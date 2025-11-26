@@ -4,7 +4,7 @@ This repository contains a Java-based implementation of a Parking Lot system, de
 
 ## Project Structure
 
-- **src/**: Contains the source code for the application.
+- **src**: Contains the source code for the application.
     - **CommonEnum**: Enumerations used across the system.
     - **FareStrategyPattern**: Implementation of fare calculation strategies.
     - **PaymentStrategyPattern**: Implementation of payment processing strategies.
