@@ -17,5 +17,6 @@ This repository contains a Java-based implementation of a Parking Lot system, de
 ## Design Patterns
 
 The project explicitly utilizes:
-- **Strategy Pattern**: For flexible fare calculation and payment methods.
-- **Factory Pattern**: For object creation of vehicles.
+- **Strategy Design Pattern**: For flexible fare calculation and payment methods.
+- **Factory Design Pattern**: For object creation of vehicles.
+- **Composite Design Pattern**: For MultiFloorParking Logic which follows a hirerchical structure.
